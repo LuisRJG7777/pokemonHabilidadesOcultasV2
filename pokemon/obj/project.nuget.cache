@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0cbQLwvataSCLRVfIILqZ4BiTQko/BCv1SOqDVjE1nFx3jag9xv0CWy5IQsHZedQT2qCBwNoBvour9BLYqNMfw==",
+  "dgSpecHash": "FdXyZYjW1v5DUCxOzpL2jX3OThiSM0FJBa7nBWqkW8QGVAiYeAs0rri0xeYduozA7FVgeeAgJ8zHASO0JIRuqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lrojagon\\Documents\\Proyectos\\pokemon V10\\pokemon\\pokemon.csproj",
+  "projectFilePath": "C:\\Users\\lrojagon\\Documents\\Proyectos\\pokemonHabilidadesOcultas\\pokemon\\pokemon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lrojagon\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lrojagon\\.nuget\\packages\\log4net\\2.0.17\\log4net.2.0.17.nupkg.sha512",

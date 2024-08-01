@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lrojagon\\Documents\\Proyectos\\pokemon V10\\pokemon\\pokemon.csproj": {}
+    "C:\\Users\\lrojagon\\Documents\\Proyectos\\pokemonHabilidadesOcultas\\pokemon\\pokemon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lrojagon\\Documents\\Proyectos\\pokemon V10\\pokemon\\pokemon.csproj": {
+    "C:\\Users\\lrojagon\\Documents\\Proyectos\\pokemonHabilidadesOcultas\\pokemon\\pokemon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lrojagon\\Documents\\Proyectos\\pokemon V10\\pokemon\\pokemon.csproj",
+        "projectUniqueName": "C:\\Users\\lrojagon\\Documents\\Proyectos\\pokemonHabilidadesOcultas\\pokemon\\pokemon.csproj",
         "projectName": "pokemon",
-        "projectPath": "C:\\Users\\lrojagon\\Documents\\Proyectos\\pokemon V10\\pokemon\\pokemon.csproj",
+        "projectPath": "C:\\Users\\lrojagon\\Documents\\Proyectos\\pokemonHabilidadesOcultas\\pokemon\\pokemon.csproj",
         "packagesPath": "C:\\Users\\lrojagon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lrojagon\\Documents\\Proyectos\\pokemon V10\\pokemon\\obj\\",
+        "outputPath": "C:\\Users\\lrojagon\\Documents\\Proyectos\\pokemonHabilidadesOcultas\\pokemon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lrojagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
