@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "API.Controllers.PokemonController",
+    "Method": "GetHiddenAbilities",
+    "RelativePath": "api/pokemon/habilidadesOcultas/{pokemonName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pokemonName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "pokemon.API.Controllers.PokemonController",
+    "Method": "IniciarSesion",
+    "RelativePath": "api/pokemon/token/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "pokemon.Application.DTOs.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

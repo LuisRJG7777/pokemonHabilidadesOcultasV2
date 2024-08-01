@@ -1,0 +1,294 @@
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\pokemon.csproj.AssemblyReference.cache
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\pokemon.AssemblyInfoInputs.cache
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\pokemon.AssemblyInfo.cs
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\pokemon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\pokemon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wilme\source\repos\pokemon\pokemon\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\wilme\source\repos\pokemon\pokemon\bin\Debug\net6.0\appsettings.json
+C:\Users\wilme\source\repos\pokemon\pokemon\bin\Debug\net6.0\pokemon.exe
+C:\Users\wilme\source\repos\pokemon\pokemon\bin\Debug\net6.0\pokemon.deps.json
+C:\Users\wilme\source\repos\pokemon\pokemon\bin\Debug\net6.0\pokemon.runtimeconfig.json
+C:\Users\wilme\source\repos\pokemon\pokemon\bin\Debug\net6.0\pokemon.dll
+C:\Users\wilme\source\repos\pokemon\pokemon\bin\Debug\net6.0\pokemon.pdb
+C:\Users\wilme\source\repos\pokemon\pokemon\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\wilme\source\repos\pokemon\pokemon\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\wilme\source\repos\pokemon\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wilme\source\repos\pokemon\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wilme\source\repos\pokemon\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.pokemon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.build.pokemon.props
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pokemon.props
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pokemon.props
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\scopedcss\bundle\pokemon.styles.css
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\pokemon.csproj.CopyComplete
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\pokemon.dll
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\refint\pokemon.dll
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\pokemon.pdb
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\pokemon.genruntimeconfig.cache
+C:\Users\wilme\source\repos\pokemon\pokemon\obj\Debug\net6.0\ref\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\bin\Debug\net6.0\appsettings.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\bin\Debug\net6.0\pokemon.exe
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\bin\Debug\net6.0\pokemon.deps.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\bin\Debug\net6.0\pokemon.runtimeconfig.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\bin\Debug\net6.0\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\bin\Debug\net6.0\pokemon.pdb
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\pokemon.csproj.AssemblyReference.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\pokemon.AssemblyInfoInputs.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\pokemon.AssemblyInfo.cs
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\pokemon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\pokemon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.pokemon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.build.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\scopedcss\bundle\pokemon.styles.css
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\pokemon.csproj.Up2Date
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\refint\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\pokemon.pdb
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\pokemon.genruntimeconfig.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V4\pokemon\obj\Debug\net6.0\ref\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\bin\Debug\net6.0\appsettings.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\bin\Debug\net6.0\pokemon.exe
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\bin\Debug\net6.0\pokemon.deps.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\bin\Debug\net6.0\pokemon.runtimeconfig.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\bin\Debug\net6.0\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\bin\Debug\net6.0\pokemon.pdb
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\pokemon.csproj.AssemblyReference.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\pokemon.AssemblyInfoInputs.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\pokemon.AssemblyInfo.cs
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\pokemon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\pokemon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.pokemon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.build.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\scopedcss\bundle\pokemon.styles.css
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\pokemon.csproj.Up2Date
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\refint\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\pokemon.pdb
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\pokemon.genruntimeconfig.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V5\pokemon\obj\Debug\net6.0\ref\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\appsettings.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\log4net.config
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\pokemon.exe
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\pokemon.deps.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\pokemon.runtimeconfig.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\pokemon.pdb
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\log4net.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\pokemon.csproj.AssemblyReference.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\pokemon.AssemblyInfoInputs.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\pokemon.AssemblyInfo.cs
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\pokemon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\pokemon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.pokemon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.build.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\scopedcss\bundle\pokemon.styles.css
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\pokemon.csproj.Up2Date
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\refint\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\pokemon.pdb
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\pokemon.genruntimeconfig.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V6\pokemon\obj\Debug\net6.0\ref\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\log4net.config
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\appsettings.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\pokemon.exe
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\pokemon.deps.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\pokemon.runtimeconfig.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\pokemon.pdb
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\log4net.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\pokemon.csproj.AssemblyReference.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\pokemon.AssemblyInfoInputs.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\pokemon.AssemblyInfo.cs
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\pokemon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\pokemon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.pokemon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.build.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\scopedcss\bundle\pokemon.styles.css
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\pokemon.csproj.Up2Date
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\refint\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\pokemon.pdb
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\pokemon.genruntimeconfig.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V8\pokemon\obj\Debug\net6.0\ref\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\log4net.config
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\appsettings.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\pokemon.exe
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\pokemon.deps.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\pokemon.runtimeconfig.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\pokemon.pdb
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\log4net.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\pokemon.csproj.AssemblyReference.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\pokemon.AssemblyInfoInputs.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\pokemon.AssemblyInfo.cs
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\pokemon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\pokemon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.pokemon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.build.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\scopedcss\bundle\pokemon.styles.css
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\pokemon.csproj.Up2Date
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\refint\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\pokemon.pdb
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\pokemon.genruntimeconfig.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V9\pokemon\obj\Debug\net6.0\ref\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\log4net.config
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\appsettings.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\pokemon.exe
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\pokemon.deps.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\pokemon.runtimeconfig.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\pokemon.pdb
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\log4net.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\pokemon.csproj.AssemblyReference.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\pokemon.AssemblyInfoInputs.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\pokemon.AssemblyInfo.cs
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\pokemon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\pokemon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.pokemon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.build.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pokemon.props
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\scopedcss\bundle\pokemon.styles.css
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\pokemon.csproj.Up2Date
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\refint\pokemon.dll
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\pokemon.pdb
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\pokemon.genruntimeconfig.cache
+C:\Users\lrojagon\Documents\Proyectos\pokemon V10\pokemon\obj\Debug\net6.0\ref\pokemon.dll
